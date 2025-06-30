@@ -8,10 +8,10 @@ Once speech recognition is more accurate, feed the transcribed voice input into 
 
 ## Dependencies
 Make sure the following are installed in your python environment:
-ffmpeg
-realtime-stt (pip3 install RealtimeSTT)
-openwakeword (pip3 install OpenWakeWord)
-pywizlight (pip3 install pywizlight)
+1. ffmpeg
+2. realtime-stt (pip3 install RealtimeSTT)
+3. openwakeword (pip3 install OpenWakeWord)
+4. pywizlight (pip3 install pywizlight)
 
 ## How it works
 
